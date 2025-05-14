@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Madhawa
 
-I'm a Computer Science and Engineering undergraduate at the University of Moratuwa, passionate about Data Science and Machine Learning.
+I'm a **Full-Stack Backend Developer** and an **AI/ML Enthusiast**, currently pursuing my Computer Science and Engineering degree at the University of Moratuwa.
 
-- 🔭 I’m currently working on knowledge distillation from ANN to SNN  
-- 🌱 I’m learning backend development with Node.js and Spring Boot  
-- 💬 Ask me about Python, ML, or backend systems  
+- 🔭 I’m currently working on knowledge distillation from ANN to SNN   
 - 📫 How to reach me: [aponsomadhawa@gmail.com](mailto:aponsomadhawa@gmail.com)  
 - 🔗 LinkedIn: [aponsomadhawa](https://www.linkedin.com/in/madhawa-aponso-6551a327a/)  
+- 🧠 LeetCode: [leetcode.com/aponsomadhawa](https://leetcode.com/u/aponsomadhawa/)  
+- 💻 HackerRank: [hackerrank.com/aponsomadhawa](https://www.hackerrank.com/profile/aponsomadhawa)  
+
 
 ---
 
