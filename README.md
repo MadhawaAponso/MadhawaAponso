@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Madhawa
+# Yoo 👋, I'm Madhawa
 
 I'm a **Full-Stack Backend Developer** and an **AI/ML Enthusiast**, currently pursuing my Computer Science and Engineering degree at the University of Moratuwa.
 
